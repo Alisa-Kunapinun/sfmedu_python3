@@ -1,4 +1,7 @@
 # Structure-from-motion-python
+
+This code has been modified from python2.x to be python3.x from the project github https://github.com/aferral/Structure-from-motion-python
+
 Implementation based on SFMedu Princeton COS429: Computer Vision http://vision.princeton.edu/courses/SFMedu/ but on python + numpy
 
 The objective of this project was to understand  the structure from motion problem so i take the MATLAB code from http://vision.princeton.edu/courses/SFMedu/
@@ -8,3 +11,5 @@ Requeriments
 Numpy, cv2, https://github.com/dranjan/python-plyfile
 
 For an example just run main.py without any changes. It will generate a point cloud of a jirafe from 5 images included in examples folder. (can take up to 30 m)
+
+The output ply file can be seen in <link>[Meshlab](https://www.meshlab.net/)</link>
