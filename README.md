@@ -1,4 +1,4 @@
-# Structure-from-motion-python
+# Structure-from-motion-python3
 
 This code has been modified from python2.x to be python3.x from the project github https://github.com/aferral/Structure-from-motion-python
 
